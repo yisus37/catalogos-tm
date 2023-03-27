@@ -1,0 +1,14 @@
+/home/yisus37/Escritorio/devs/dbModel/bin/Debug/net6.0/dbModel.deps.json
+/home/yisus37/Escritorio/devs/dbModel/bin/Debug/net6.0/dbModel.runtimeconfig.json
+/home/yisus37/Escritorio/devs/dbModel/bin/Debug/net6.0/dbModel.dll
+/home/yisus37/Escritorio/devs/dbModel/bin/Debug/net6.0/ref/dbModel.dll
+/home/yisus37/Escritorio/devs/dbModel/bin/Debug/net6.0/dbModel.pdb
+/home/yisus37/Escritorio/devs/dbModel/obj/Debug/net6.0/dbModel.csproj.AssemblyReference.cache
+/home/yisus37/Escritorio/devs/dbModel/obj/Debug/net6.0/dbModel.GeneratedMSBuildEditorConfig.editorconfig
+/home/yisus37/Escritorio/devs/dbModel/obj/Debug/net6.0/dbModel.AssemblyInfoInputs.cache
+/home/yisus37/Escritorio/devs/dbModel/obj/Debug/net6.0/dbModel.AssemblyInfo.cs
+/home/yisus37/Escritorio/devs/dbModel/obj/Debug/net6.0/dbModel.csproj.CoreCompileInputs.cache
+/home/yisus37/Escritorio/devs/dbModel/obj/Debug/net6.0/dbModel.dll
+/home/yisus37/Escritorio/devs/dbModel/obj/Debug/net6.0/ref/dbModel.dll
+/home/yisus37/Escritorio/devs/dbModel/obj/Debug/net6.0/dbModel.pdb
+/home/yisus37/Escritorio/devs/dbModel/obj/Debug/net6.0/dbModel.genruntimeconfig.cache
