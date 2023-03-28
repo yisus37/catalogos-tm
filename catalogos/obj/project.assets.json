@@ -1181,11 +1181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/yisus37/Escritorio/devs/catalogos/catalogos.csproj",
+      "projectUniqueName": "/home/yisus37/Escritorio/devps-pruebas/catalogos/catalogos/catalogos.csproj",
       "projectName": "catalogos",
-      "projectPath": "/home/yisus37/Escritorio/devs/catalogos/catalogos.csproj",
+      "projectPath": "/home/yisus37/Escritorio/devps-pruebas/catalogos/catalogos/catalogos.csproj",
       "packagesPath": "/home/yisus37/.nuget/packages/",
-      "outputPath": "/home/yisus37/Escritorio/devs/catalogos/obj/",
+      "outputPath": "/home/yisus37/Escritorio/devps-pruebas/catalogos/catalogos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/yisus37/.nuget/NuGet/NuGet.Config"
@@ -1200,8 +1200,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/yisus37/Escritorio/devs/dbModel/dbModel.csproj": {
-              "projectPath": "/home/yisus37/Escritorio/devs/dbModel/dbModel.csproj"
+            "/home/yisus37/Escritorio/devps-pruebas/catalogos/dbModel/dbModel.csproj": {
+              "projectPath": "/home/yisus37/Escritorio/devps-pruebas/catalogos/dbModel/dbModel.csproj"
             }
           }
         }

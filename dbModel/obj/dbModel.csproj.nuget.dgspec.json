@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/yisus37/Escritorio/devs/dbModel/dbModel.csproj": {}
+    "/home/yisus37/Escritorio/devps-pruebas/catalogos/dbModel/dbModel.csproj": {}
   },
   "projects": {
-    "/home/yisus37/Escritorio/devs/dbModel/dbModel.csproj": {
+    "/home/yisus37/Escritorio/devps-pruebas/catalogos/dbModel/dbModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yisus37/Escritorio/devs/dbModel/dbModel.csproj",
+        "projectUniqueName": "/home/yisus37/Escritorio/devps-pruebas/catalogos/dbModel/dbModel.csproj",
         "projectName": "dbModel",
-        "projectPath": "/home/yisus37/Escritorio/devs/dbModel/dbModel.csproj",
+        "projectPath": "/home/yisus37/Escritorio/devps-pruebas/catalogos/dbModel/dbModel.csproj",
         "packagesPath": "/home/yisus37/.nuget/packages/",
-        "outputPath": "/home/yisus37/Escritorio/devs/dbModel/obj/",
+        "outputPath": "/home/yisus37/Escritorio/devps-pruebas/catalogos/dbModel/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/yisus37/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KWoO/R7qIL+DhNaDs3kF1bML/8zapWNV0snHxu+89Uo1o0mKwqQh19sGc0gepmVMrXU5DIV6hYS8T9zHuA9qxw==",
+  "dgSpecHash": "bkFTmmxKImIPh0ZdPlBemFAsXgueoLN+lImfJBefl7qs8JcnlK9qGbwxyjhkoNJ48jKgGyHawSa2O/uyopahJg==",
   "success": true,
-  "projectFilePath": "/home/yisus37/Escritorio/devs/catalogos/catalogos.csproj",
+  "projectFilePath": "/home/yisus37/Escritorio/devps-pruebas/catalogos/catalogos/catalogos.csproj",
   "expectedPackageFiles": [
     "/home/yisus37/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/yisus37/.nuget/packages/microsoft.entityframeworkcore/7.0.4/microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
