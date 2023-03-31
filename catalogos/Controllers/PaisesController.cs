@@ -16,7 +16,7 @@ namespace Paises.Controllers
         public  ActionResult Get()
         {
             
-            return Ok("HOLA UN NUEVO UPDATE");
+            return Ok("HOLA UN otro UPDATE");
         }
         [HttpGet("pais")]
         public  ActionResult GetPais()
